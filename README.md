@@ -8,3 +8,9 @@ It comes with several examples for different configurations and supports the fol
 * The SI4703 from Silicon Labs.
 
 Modificado por lightcalamar 28/07/2017
+
+
+<a href="http://imgur.com/1Wk3yy0"><img src="http://i.imgur.com/1Wk3yy0.jpg" title="source: imgur.com" /></a>
+
+
+<a href="http://imgur.com/y7EMi0w"><img src="http://i.imgur.com/y7EMi0w.jpg" title="source: imgur.com" /></a>
